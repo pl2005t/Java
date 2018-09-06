@@ -1,3 +1,5 @@
+package ClosestPair;
+
 import java.io.*;
 import java.util.*;
 
